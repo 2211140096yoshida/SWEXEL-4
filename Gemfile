@@ -16,7 +16,7 @@ gem "sprockets-rails"
 gem "sqlite3", "~> 1.4", group: :development
 
 
-gem "pg", "~> 1.4", group: :production
+gem "pg", "~> 1.4"
 
 
 # Use the Puma web server [https://github.com/puma/puma]
